@@ -1,15 +1,21 @@
-h1{
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
+body{
+    margin: 0;
 }
 
 div{
-    background-color: #ff0000;
-    width: 350px;
-    height: 240px;
+    width: 500px;
+    height: 100px;
     margin: 0;
 }
 
-body{
-    margin: 0;
+#red{
+    background-color: #ff0000;
+}
+
+#black{
+    background-color: black;
+}
+
+#gold{
+    background-color: #ffd700;
 }
