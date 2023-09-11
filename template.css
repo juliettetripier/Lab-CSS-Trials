@@ -3,9 +3,25 @@ body{
 }
 
 div{
-    width: 500px;
+    display: inline-block;
+    background-color: black;
     height: 100px;
-    margin: 0;
+    width: 100px;
+}
+
+#left{
+    margin: 50px 25px 50px 50px
+}
+
+#right{
+    margin: 50px 50px 50px 25px
+}
+/* div{
+    /* width: 500px;
+    height: 100px;
+    margin: 0; 
+    display: inline-block;
+
 }
 
 #red{
@@ -17,5 +33,4 @@ div{
 }
 
 #gold{
-    background-color: #ffd700;
-}
+    background-color: #ffd700; */
